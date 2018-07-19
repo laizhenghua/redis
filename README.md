@@ -1,8 +1,5 @@
 # redis
-redis maintenance &amp;develop
-
-
-1，什么是redis？
+# 1，什么是redis？
 
 2，如何安装redis？
 
